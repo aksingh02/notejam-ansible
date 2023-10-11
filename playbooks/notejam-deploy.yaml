@@ -2,5 +2,5 @@
 - hosts: ansible_client
 
   roles:
-    - ansible-roles/notejam-deploy
+    - roles/notejam-deploy
 
