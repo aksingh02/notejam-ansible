@@ -1,0 +1,6 @@
+---
+- hosts: ansible_client
+
+  roles:
+    - ansible-roles/notejam-deploy
+

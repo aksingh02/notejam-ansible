@@ -1,0 +1,7 @@
+---
+# vars file for notejam-deploy
+# - name: Get variables
+#   vars: 
+#     jenkins_build_number: "{{ jenkins_build_number | default('latest') }}"
+#     docker_image_name: aks0207/ansible-notejam
+#     docker_image_tag: "{{ jenkins_build_number }}"
